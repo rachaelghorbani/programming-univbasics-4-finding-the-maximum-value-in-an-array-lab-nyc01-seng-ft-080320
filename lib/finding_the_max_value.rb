@@ -20,6 +20,6 @@ def find_max_value(array)
     end
     counter += 1
   end
-  puts max_value
+  max_value
   # Add your solution here
 end
